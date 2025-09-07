@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Samiha 👋
 
-<!--
-**SamihaAhsan/SamihaAhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer student at the University of Toronto. 🏫 
+I’m passionate about expanding my skills, driven by all the projects I want to build, and I embrace learning new tech stacks to make these projects a reality! 💻
 
-Here are some ideas to get you started:
+## Connect with me! 
+LinkedIn: https://www.linkedin.com/feed/
+Email: samiha.ahsan13@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 👩‍💻
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
