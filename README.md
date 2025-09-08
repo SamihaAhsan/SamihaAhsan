@@ -5,7 +5,7 @@ I’m passionate about expanding my skills, driven by all the projects I want to
 
 ## Connect with me! 🔗
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/sahsan/
 
 Email: samiha.ahsan13@gmail.com
 
